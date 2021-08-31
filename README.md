@@ -1,6 +1,13 @@
 # FAFABOT
 發哥小車專案
 
+[![Apache-2.0 License](https://img.shields.io/badge/license-Apache2.0-purple)](https://opensource.org/licenses/Apache-2.0)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Platform Badge](https://img.shields.io/badge/platform-發哥的玩具們-blue.svg)](http://wiki.ros.org/melodic)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![robot](https://img.shields.io/badge/robot-KUBOT-orange)](http://www.shayangye.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 # No.1 麥克納姆輪遙控小車
 <img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No1/1.jpg" width="700">
 
