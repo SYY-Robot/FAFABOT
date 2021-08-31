@@ -1,2 +1,2 @@
-# FAFABOT
-發哥小車專案
+# stm32_f103_rct6_test
+STM32RCT6下位機控制
