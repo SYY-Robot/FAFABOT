@@ -1,0 +1,17 @@
+#pragma once
+
+#define MOTOR_1_PWM_PIN PC6
+#define MOTOR_1_DIR_A_PIN PC4
+#define MOTOR_1_DIR_B_PIN PC5
+#define MOTOR_2_PWM_PIN PC7
+#define MOTOR_2_DIR_A_PIN PC2
+#define MOTOR_2_DIR_B_PIN PC3
+#define MOTOR_3_PWM_PIN PC8
+#define MOTOR_3_DIR_A_PIN PC0
+#define MOTOR_3_DIR_B_PIN PC1
+#define MOTOR_4_PWM_PIN PC9
+#define MOTOR_4_DIR_A_PIN PD2
+#define MOTOR_4_DIR_B_PIN PC12
+
+#define PWM_FREQUENCE 15000
+#define MAX_PWM_VALUE 1023
