@@ -12,9 +12,9 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/.pio/build/uno/firmware.elf",
+            "executable": "/home/rd400/FAFABOT/.pio/build/uno/firmware.elf",
             "projectEnvName": "uno",
-            "toolchainBinDir": "C:/Users/rd400/.platformio/packages/toolchain-atmelavr/bin",
+            "toolchainBinDir": "/home/rd400/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "preLaunchTask": {
                 "type": "PlatformIO",
@@ -25,9 +25,9 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/.pio/build/uno/firmware.elf",
+            "executable": "/home/rd400/FAFABOT/.pio/build/uno/firmware.elf",
             "projectEnvName": "uno",
-            "toolchainBinDir": "C:/Users/rd400/.platformio/packages/toolchain-atmelavr/bin",
+            "toolchainBinDir": "/home/rd400/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart"
         }
     ]
