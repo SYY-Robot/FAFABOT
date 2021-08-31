@@ -1,0 +1,68 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/include",
+                "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/src",
+                "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/lib/QGPMaker_MotorShield",
+                "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/lib/Adafruit_MS_PWMServoDriver",
+                "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/lib/PS2X_lib",
+                "C:/Users/rd400/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/rd400/.platformio/packages/framework-arduino-avr/variants/standard",
+                "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/lib/PCINT",
+                "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/lib/Ultrasonic",
+                "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/rd400/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/include",
+                    "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/src",
+                    "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/lib/QGPMaker_MotorShield",
+                    "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/lib/Adafruit_MS_PWMServoDriver",
+                    "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/lib/PS2X_lib",
+                    "C:/Users/rd400/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/rd400/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/lib/PCINT",
+                    "C:/Users/rd400/Documents/PlatformIO/Projects/arduino_uno_4motor_test/lib/Ultrasonic",
+                    "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/rd400/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/rd400/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50101",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/rd400/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
