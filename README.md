@@ -1,2 +1,1 @@
-# FAFABOT
-發哥小車專案
+# FAFABOT-No.4 麥克納姆輪AI跟隨小車-Huskylens
