@@ -7,9 +7,7 @@ CommonMotorController motor1(MOTOR_1_PWM_PIN, MOTOR_1_DIR_A_PIN, MOTOR_1_DIR_B_P
 CommonMotorController motor2(MOTOR_2_PWM_PIN, MOTOR_2_DIR_A_PIN, MOTOR_2_DIR_B_PIN, MAX_PWM_VALUE,PWM_FREQUENCE);
 CommonMotorController motor3(MOTOR_3_PWM_PIN, MOTOR_3_DIR_A_PIN, MOTOR_3_DIR_B_PIN, MAX_PWM_VALUE,PWM_FREQUENCE);
 CommonMotorController motor4(MOTOR_4_PWM_PIN, MOTOR_4_DIR_A_PIN, MOTOR_4_DIR_B_PIN, MAX_PWM_VALUE,PWM_FREQUENCE);
-char call_time;
-/*int x = 0;
-int dx = 0;*/
+int time=0;
 
 void forward();
 void stop();
@@ -26,16 +24,14 @@ void setup()
   motor2.init();
   motor3.init();
   motor4.init();
-  call_time=0;
   
 }
 
 
 void loop()
 {
-  #define TIME_CALE 3000
   if (ss.isDetected()) {
-    call_time = millis();
+    time = millis();
     /*Serial1.print("x:");
     Serial1.println(ss.getPosX());
     Serial1.print("y:");
@@ -44,30 +40,35 @@ void loop()
     Serial1.println(ss.getWidth());*/
     if (ss.getTypeID() == Pixetto::COLOR_PURPLE){
       if(ss.getPosX() >= 60){
+        //Serial1.println("right");
         right();
       }
       else if(ss.getPosX() <= 15){
+        //Serial1.println("left");
         left();
       }
       else if(ss.getPosX() >= 15 && ss.getPosX() <= 60 ){
         if(ss.getWidth() < 18){
+          //Serial1.println("forward");
           forward();
         }
         else if(ss.getWidth() > 40){
+          //Serial1.println("backward");
           backward();
         }
         else{
+          //Serial1.println("stop");
           stop();
         }
       }
     }
     else{
-      stop();
+      //stop();
     }
   }
-  else{
-    /*if(millis() - call_time> TIME_CALE)
-      stop();*/
+  if(millis() - time > 300){
+    //Serial1.println("stop");
+    stop();
   }
 }
 
