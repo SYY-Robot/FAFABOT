@@ -1,7 +1,7 @@
 # FAFABOT
 發哥小車專案
 
-[![Apache-2.0 License](https://img.shields.io/badge/license-Apache2.0-purple)](https://opensource.org/licenses/Apache-2.0)
+[![MIT License](https://img.shields.io/badge/license-MIT-purple)](https://opensource.org/licenses/MIT)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Platform Badge](https://img.shields.io/badge/platform-發哥的玩具們-blue.svg)](http://www.shayangye.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
