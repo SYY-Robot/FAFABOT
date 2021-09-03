@@ -1,4 +1,4 @@
-# [No.3 麥克納姆輪AI互動小車-](https://github.com/KUBOT-Robot/FAFABOT/tree/FAFABOT-No.3)
+# [No.3 麥克納姆輪AI互動小車-Pixetto](https://github.com/KUBOT-Robot/FAFABOT/tree/FAFABOT-No.3)
 
 <img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No3/3.jpg" width="700">
 
