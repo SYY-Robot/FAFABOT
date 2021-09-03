@@ -6,9 +6,9 @@
 
 <img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No2/13.png?raw=true" width="700">
 
-建立遠端主從關係, 於遠端電腦觀看RViZ的畫面.
-車端啟動roslaunch kubot_slam_2d gmapping_with_robot.launch
+>建立遠端主從關係, 於遠端電腦觀看RViZ的畫面.
+車端啟動roslaunch kubot_slam_2d gmapping_with_robot.launch.
 
 <img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No2/14.gif?raw=true" width="700">
 
-使用gmapping與teb_local_planner進行導航.
+>使用gmapping與teb_local_planner進行自動導航.
