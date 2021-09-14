@@ -1,5 +1,4 @@
-# FAFABOT
-發哥小車專案
+# FAFABOT 發哥小車專案
 
 [![MIT License](https://img.shields.io/badge/license-MIT-purple)](https://opensource.org/licenses/MIT)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -8,8 +7,8 @@
 [![robot](https://img.shields.io/badge/robot-KUBOT-orange)](https://sites.google.com/view/kubot-robot)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-/*快捷導覽*/
-- [FAFABOT](#fafabot)
+**快捷導覽**
+- [FAFABOT 發哥小車專案](#fafabot-發哥小車專案)
 - [No.1 麥克納姆輪遙控小車](#no1-麥克納姆輪遙控小車)
 - [No.2 麥克納姆輪ROS SLAM小車](#no2-麥克納姆輪ros-slam小車)
 - [No.3 麥克納姆輪AI互動小車-Pixetto](#no3-麥克納姆輪ai互動小車-pixetto)
