@@ -3,4 +3,4 @@
 
 >超迷你藍芽+APP遙控麥克納姆小車.
 
-![81](https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No1/12.gif?raw=true)
+![81](https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No8/81.gif?raw=true)
