@@ -17,6 +17,8 @@
 - [No.6 麥克納姆追球機器人](#no6-麥克納姆追球機器人)
 - [No.7 麥克納姆ROS SLAM小車](#no7-麥克納姆ros-slam小車)
 - [No.8 超迷你麥克納姆遙控小車](#no8-超迷你麥克納姆遙控小車)
+- [No.9 三輪全向輪ROS SLAM小車](#no9-三輪全向輪ros-slam小車)
+- [No.10 超迷你麥克納姆遙控小車2](#no10-超迷你麥克納姆遙控小車2)
 
 # [No.1 麥克納姆輪遙控小車](https://github.com/KUBOT-Robot/FAFABOT/tree/FAFABOT-No.1)
 <img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No1/1.jpg" width="700">
@@ -69,3 +71,13 @@
 <img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No8/80.jpg" width="700">
 
 >超迷你藍芽+APP遙控麥克納姆小車.
+
+# [No.9 三輪全向輪ROS SLAM小車](https://github.com/KUBOT-Robot/FAFABOT/tree/FAFABOT-No.9)
+<img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No9/90.jpg" width="700">
+
+>WG32 500比馬達齒輪箱+Raspberry Pi 4B, Xtark OpenCRP4控制器
+
+# [No.10 超迷你麥克納姆遙控小車2](https://github.com/KUBOT-Robot/FAFABOT/tree/FAFABOT-No.10)
+<img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No10/100.jpg" width="700">
+
+>超迷你藍芽+APP遙控麥克納姆小車2號.
