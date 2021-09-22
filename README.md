@@ -4,3 +4,5 @@
 >WG32 500比馬達齒輪箱+Raspberry Pi 4B, Xtark OpenCRP4控制器
 
 <img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No9/92.gif?raw=true" width="700">
+
+wheel_track 是輪圓直徑.
