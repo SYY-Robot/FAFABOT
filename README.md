@@ -41,7 +41,7 @@
 >使用DFRobot Huskylens AI鏡頭搭配CAGEBOT-Mars Car(Arduino nano), 透過KNN人臉辨識進行互動式小車.
 
 # [No.5 鋼鐵酷寶巡邏機器人](https://github.com/KUBOT-Robot/FAFABOT/tree/FAFABOT-No.5)
-<img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No5/50.jpg" width="700">
+<img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No5/50.png" width="700">
 
 >使用鋼鐵版酷寶（麥克納姆輪）進行自動站點巡邏, 並將即時影像回傳監控台進行AI Inference物件偵測.
 
