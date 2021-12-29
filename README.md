@@ -15,7 +15,7 @@
 - [No.4 Mars AI互動小車-Huskylens](#no4-mars-ai互動小車-huskylens)
 - [No.5 鋼鐵酷寶巡邏機器人](#no5-鋼鐵酷寶巡邏機器人)
 - [No.6 麥克納姆追球機器人(未完成)](#no6-麥克納姆追球機器人未完成)
-- [No.7 麥克納姆ROS SLAM小車(未完成)](#no7-麥克納姆ros-slam小車未完成)
+- [No.7 麥克納姆ROS SLAM小車](#no7-麥克納姆ros-slam小車)
 - [No.8 超迷你麥克納姆遙控小車](#no8-超迷你麥克納姆遙控小車)
 - [No.9 三輪全向輪ROS SLAM小車](#no9-三輪全向輪ros-slam小車)
 - [No.10 超迷你麥克納姆遙控小車2](#no10-超迷你麥克納姆遙控小車2)
@@ -50,8 +50,8 @@
 
 >加入舵機控制的追球機器人遊戲.
 
-# [No.7 麥克納姆ROS SLAM小車(未完成)](https://github.com/KUBOT-Robot/FAFABOT/tree/FAFABOT-No.7)
-<img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No7/4.jpg" width="700">
+# [No.7 麥克納姆ROS SLAM小車](https://github.com/KUBOT-Robot/FAFABOT/tree/FAFABOT-No.7)
+<img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No7/70.jpg" width="700">
 
 >使用WG32馬達齒輪箱加強版SLAM小車.
 
