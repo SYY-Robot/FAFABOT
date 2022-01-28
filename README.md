@@ -14,7 +14,7 @@
 - [No.3 麥克納姆輪AI互動小車-Pixetto](#no3-麥克納姆輪ai互動小車-pixetto)
 - [No.4 Mars AI互動小車-Huskylens](#no4-mars-ai互動小車-huskylens)
 - [No.5 鋼鐵酷寶巡邏機器人](#no5-鋼鐵酷寶巡邏機器人)
-- [No.6 麥克納姆追球機器人(未完成)](#no6-麥克納姆追球機器人未完成)
+- [No.6 麥克納姆追球機器人](#no6-麥克納姆追球機器人)
 - [No.7 麥克納姆ROS SLAM小車](#no7-麥克納姆ros-slam小車)
 - [No.8 超迷你麥克納姆遙控小車](#no8-超迷你麥克納姆遙控小車)
 - [No.9 三輪全向輪ROS SLAM小車](#no9-三輪全向輪ros-slam小車)
@@ -45,10 +45,10 @@
 
 >使用鋼鐵版酷寶（麥克納姆輪）進行自動站點巡邏, 並將即時影像回傳監控台進行AI Inference物件偵測.
 
-# [No.6 麥克納姆追球機器人(未完成)](https://github.com/KUBOT-Robot/FAFABOT/tree/FAFABOT-No.6)
-<img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No6/4.jpg" width="700">
+# [No.6 麥克納姆追球機器人](https://github.com/KUBOT-Robot/FAFABOT/tree/FAFABOT-No.6)
+<img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No6/60.jpg" width="700">
 
->加入舵機控制的追球機器人遊戲.
+>加入舵機控制的自動追球機器人遊戲.
 
 # [No.7 麥克納姆ROS SLAM小車](https://github.com/KUBOT-Robot/FAFABOT/tree/FAFABOT-No.7)
 <img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No7/70.jpg" width="700">
