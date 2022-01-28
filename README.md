@@ -4,4 +4,4 @@
 
 >兩輪自平衡遙控車
 
-<img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No10/1111.gif" width="700">
+<img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No1/111.gif" width="700">
