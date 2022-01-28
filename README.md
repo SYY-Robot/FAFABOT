@@ -19,6 +19,7 @@
 - [No.8 超迷你麥克納姆遙控小車](#no8-超迷你麥克納姆遙控小車)
 - [No.9 三輪全向輪ROS SLAM小車](#no9-三輪全向輪ros-slam小車)
 - [No.10 超迷你麥克納姆遙控小車2](#no10-超迷你麥克納姆遙控小車2)
+- [No.11 科技寶平衡車](#no11-科技寶平衡車)
 
 # [No.1 麥克納姆輪遙控小車](https://github.com/KUBOT-Robot/FAFABOT/tree/FAFABOT-No.1)
 <img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No1/1.jpg" width="700">
@@ -69,3 +70,8 @@
 <img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No10/100.jpg" width="700">
 
 >超迷你藍芽+APP遙控麥克納姆小車2號.
+
+# [No.11 科技寶平衡車](https://github.com/KUBOT-Robot/FAFABOT/tree/FAFABOT-No.11)
+<img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No11/110.jpg" width="700">
+
+>兩輪自平衡遙控車
