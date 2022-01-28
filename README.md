@@ -4,4 +4,4 @@
 
 >加入舵機控制的自動追球機器人遊戲.
 
-<img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No10/62.gif" width="700">
+<img src="https://github.com/KUBOT-Robot/FAFABOT/blob/resource/FAFABOT-No6/62.gif" width="700">
